@@ -1,0 +1,17 @@
+{
+  "login": {
+    "message": "oke",
+    "status": 1,
+    "access_token": "falfsalfewrwr04352034ljsflsf",
+    "token_type": "bearer";
+    "expires_in": "24049";
+    "user": {
+      "name": "yamani",
+      "uuid_user": "323fllsa903",
+      "email": "yamaniyuda"
+      "uuid_bidang": "llfaslfa309",
+      "username": "yamaniyuda",
+    "profile_photo_path": "",
+    }
+  }
+}
